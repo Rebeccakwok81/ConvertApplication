@@ -8,6 +8,7 @@ def kmToM(km):
 
 user_text = ''
 
+#keep asking user input
 while user_text != 'q':
     user_text = input("Which value you would like to convert? \nEnter [1]:Miles to KM, [2]:KM to Miles, [q]:quit : ")
 
